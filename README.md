@@ -7,9 +7,9 @@ https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
 #  Analysis
 ## below is the correlations of the attributes with the Class column
+CORRELATIONS WITH CLASS
 
-
-|CORRELATIONS WITH CLASS|
+|                               |        |
 |-------------------------------|--------|
 |uniformity_cell_size           |0.817904|
 |uniformity_cell_shape          |0.818934|
