@@ -27,15 +27,17 @@ and below is a scatter plot of the correlations
 
 
 Running a Logistic Regression model on the data to classify which records are benign (2) or malignant (4) we see the following:
-The Accuracy is 0.96486090776
+
+The Accuracy is **0.96**
 
 Predictions Value Count
+
 |label   |count|
 |--------|-----|
 |2    |444|
 |4    |239|
 
-Sensitivity is **0.9497907949790795**
-Specificity is **0.972972972972973**
+Sensitivity is **0.95**
+Specificity is **0.97**
 
-Average Accuracies after 10 K-Foldsl: 0.9633844842284741
+Average Accuracies after 10 K-Folds: **0.96**
