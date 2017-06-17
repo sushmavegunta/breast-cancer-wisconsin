@@ -7,9 +7,9 @@ https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
 #  Analysis
 ## below is the correlations of the attributes with the Class column
-CORRELATIONS WITH CLASS
 
-|clump_thickness                |0.716001|
+
+|CORRELATIONS WITH CLASS|
 |-------------------------------|--------|
 |uniformity_cell_size           |0.817904|
 |uniformity_cell_shape          |0.818934|
@@ -18,6 +18,7 @@ CORRELATIONS WITH CLASS
 |bland_chromatin                |0.756616|
 |normal_nucleoli                |0.712244|
 |mitoses                        |0.423170|
+|clump_thickness                |0.716001|
 
 You will notice that the variable 'mitoses' has low correlation with 'Class' so I will remove it from the classifier
 
